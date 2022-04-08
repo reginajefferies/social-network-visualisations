@@ -3,7 +3,7 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "WWU_MakeWaves_Stacked_RGB_0.png",
+    "file": "",
     "link": "https://fairhaven.wwu.edu/jefferr6",
     "text": "Regina Jefferies"
   },
@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Relationship",
-    "colourLabel": "Actor or Relationship Type",
+    "colourLabel": "Type of Actor/Relationship",
     "nodeLabel": "Actor"
   },
   "features": {

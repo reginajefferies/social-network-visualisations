@@ -8,13 +8,13 @@
     "text": "Regina Jefferies"
   },
   "text": {
-    "more": "Network visualisation of the relational connections between a person seeking asylum at a Port of Entry between the US and Mexico and a subset of state actors involved in implementing the obligation of non-refoulement with whom the asylum seeker may come into direct or indirect contact. The network uses empirical data to map the relationship between an asylum seeker, who appears as a pink \u0027node\u0027 and a sample of state actors, who appear as blue \u0027nodes\u0027. Indirect ties between the asylum seeker and state actors are represented by thin, brown lines. Direct ties between the asylum seeker and state actors are represented as thick, green lines.",
-    "intro": "Network visualisation of the relational connections between an asylum seeker at a Port of Entry between the US and Mexico and a subset of state actors with whom they may come into direct or indirect contact.",
-    "title": "Network Visualization of Relationships between Asylum Seeker and Sample of State Actors in the US"
+    "more": "Network visualisation of the relational connections between a person seeking asylum at a Port of Entry at the US southern land border with Mexico and a subset of state actors involved in implementing the obligation of non-refoulement with whom the asylum seeker may come into direct or indirect contact. The network uses empirical data to map the relationship between an asylum seeker, who appears as a pink \u0027node\u0027 and a sample of state actors, who appear as blue \u0027nodes\u0027. Indirect ties between the asylum seeker and state actors are represented by thin, brown lines. Direct ties between the asylum seeker and state actors are represented as thick, green lines.",
+    "intro": "Network visualisation of the relational connections between an asylum seeker at a Port of Entry at the US southern land border with Mexico and a subset of state actors with whom they may come into direct or indirect contact.",
+    "title": "Sample of Relationships between Asylum Seeker and State Actors in the US"
   },
   "legend": {
     "edgeLabel": "Relationship",
-    "colorLabel": "Type of Actor or Type of Relationship",
+    "colourLabel": "Asylum Seeker/State Actor or Direct/Indirect Relationship",
     "nodeLabel": "Actor"
   },
   "features": {
@@ -28,21 +28,21 @@
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "curve",
+      "defaultEdgeType": "line",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "labelThreshold": 3,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
-      "minNodeSize": 1,
+      "maxEdgeSize": 2,
+      "minEdgeSize": 1,
+      "minNodeSize": 4,
       "maxNodeSize": 7
     },
     "mouseProperties": {

@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Relationship",
-    "colourLabel": "Actor Type / Relationship Type",
+    "colourLabel": "Actor Type or Relationship Type",
     "nodeLabel": "Actor"
   },
   "features": {
@@ -40,10 +40,10 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 2,
-      "minEdgeSize": 1,
-      "minNodeSize": 4,
-      "maxNodeSize": 7
+      "maxEdgeSize": 3,
+      "minEdgeSize": 2,
+      "minNodeSize": 5,
+      "maxNodeSize": 10
     },
     "mouseProperties": {
       "maxRatio": 20,

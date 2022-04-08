@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Relationship",
-    "colourLabel": "Type of Actor or Type of Relationship",
+    "colourLabel": "Actor Type / Relationship Type",
     "nodeLabel": "Actor"
   },
   "features": {

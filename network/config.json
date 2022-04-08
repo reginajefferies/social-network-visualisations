@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Relationship",
-    "colourLabel": "Asylum Seeker/State Actor or Direct/Indirect Relationship",
+    "colourLabel": "Type of Actor or Type of Relationship",
     "nodeLabel": "Actor"
   },
   "features": {

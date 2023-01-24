@@ -8,14 +8,14 @@
     "text": "Regina Jefferies"
   },
   "text": {
-    "more": "Asylum-Bureaucratic Complex comprised of the connections between an individual seeking asylum at Australian airports and the state actors involved in implementing the obligation of non-refoulement with whom they might come into direct or indirect contact. These networks use empirical data to map a representative sample of six different ego-centric networks, derived from fifteen different possible legal categorisations of people seeking asylum at Australian airports. Egos appear as yellow, circular nodes. Alters appear as blue, circular nodes. Indirect ties between egos and alters are represented by pink lines. Direct ties between egos and alters are represented as teal lines.",
-    "intro": "Asylum-Bureaucratic Complex comprised of the connections between an individual seeking asylum at Australian airports and the state actors involved in implementing the obligation of non-refoulement with whom they might come into direct or indirect contact.  ",
-    "title": "Asylum-Bureaucratic Complex: Network of Actors Involved in the Implementation of the Norm of Non-Refoulement in Australia"
+    "more": "Asylum Bureaucratic Complex comprised of the connections between an individual seeking asylum at Australian airports and the state actors involved in implementing the norm of non-refoulement with whom they might come into direct or indirect contact. These networks use empirical data to map a representative sample of six different ego-centric networks, derived from fifteen different possible legal categorisations of people seeking asylum at Australian airports. Egos appear as yellow, circular nodes. Alters appear as blue, circular nodes. Indirect ties between egos and alters are represented by pink lines. Direct ties between egos and alters are represented as teal lines.",
+    "intro": "Asylum Bureaucratic Complex comprised of the connections between an individual seeking asylum at Australian airports and the state actors involved in implementing the norm of non-refoulement with whom they might come into direct or indirect contact.  ",
+    "title": "Asylum Bureaucratic Complex: Network of Actors Involved in Implementing the Norm of Non-Refoulement in Australia"
   },
   "legend": {
     "edgeLabel": "Relationship between asylum seeker and actors of implementation.",
     "colorLabel": "For nodes, colour represents the difference in ego and alter. For edges, colours represent direct and indirect relationships between actors.",
-    "nodeLabel": "Actors involved in either seeking asylum, or implementing asylum system at Australian airports"
+    "nodeLabel": "Actors involved in either seeking asylum, or implementing asylum framework at Australian airports"
   },
   "features": {
     "search": true,

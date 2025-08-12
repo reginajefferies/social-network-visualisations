@@ -1,2 +1,2 @@
-# Social Network of the Actors Implementing the Norm of Non-Refoulement
+# Social Network of Actors Implementing the Norm of Non-Refoulement
 Social network visualisations of the relationships between actors implementing the norm of non-refoulement that an individual seeking asylum in either Australia or the United States confronts upon arrival. The networks visualise actors involved in implementing the obligation of non-refoulement with whom an asylum seeker might come into direct or indirect contact, which form a complex, relational space.

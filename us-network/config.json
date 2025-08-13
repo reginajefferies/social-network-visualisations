@@ -8,14 +8,14 @@
     "text": "Regina Jefferies"
   },
   "text": {
-    "more": "Asylum Bureaucratic Complex comprised of the connections between an individual seeking asylum at the US and Mexico land border and the state actors involved in implementing the norm of non-refoulement with whom they might come into direct or indirect contact. These networks use empirical data to map a representative sample of six different ego-centric networks, derived from fifteen different possible legal categorisations of people seeking asylum at the land border between the US and Mexico. Egos appear as yellow, circular nodes. Alters appear as blue, circular nodes. Indirect ties between egos and alters are represented by pink lines. Direct ties between egos and alters are represented as teal lines.",
-    "intro": "Asylum Bureaucratic Complex comprised of the connections between an individual seeking asylum at the US and Mexico land border and the state actors involved in implementing the norm of non-refoulement with whom they might come into direct or indirect contact.  ",
-    "title": "Asylum Bureaucratic Complex: Network of Actors Involved in Implementing the Norm of Non-Refoulement in the United States"
+    "more": "Social network visualisations of the connections between an individual seeking asylum at the US-Mexico land border and the actors involved in implementing the norm of non-refoulement with whom they might come into direct or indirect contact. These networks use empirical data to map a representative sample of six different ego-centric networks, derived from fifteen different possible legal categorisations of people seeking asylum at the US-Mexico land border in 2019. Egos appear as yellow, circular nodes. Alters appear as blue, circular nodes. Indirect ties between egos and alters are represented by pink lines. Direct ties between egos and alters are represented as teal lines.",
+    "intro": "Social network visualisations of the connections between an individual seeking asylum at the US-Mexico land border and the actors involved in implementing the norm of non-refoulement with whom they might come into direct or indirect contact, as of 2019.",
+    "title": "Social Network of Actors Involved in Implementing the Norm of Non-Refoulement in the United States"
   },
   "legend": {
-    "edgeLabel": "Relationship between asylum seeker and actors of implementation.",
-    "colorLabel": "Node colour represents the difference in ego and alter. Edge colour represents a direct or indirect relationship between actors.",
-    "nodeLabel": "Actors involved in either seeking asylum, or implementing asylum framework at US southern land border"
+    "edgeLabel": "Relationship between asylum seeker and implementating actor.",
+    "colorLabel": "Node colour represents the asylum seeker (yellow) and actor (blue). Edge colour represents a direct or indirect relationship between the asylum seeker and actor.",
+    "nodeLabel": "Asylum seeker (yellow) or actor implementing asylum framework (blue)"
   },
   "features": {
     "search": true,

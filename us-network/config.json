@@ -8,8 +8,8 @@
     "text": "Regina Jefferies"
   },
   "text": {
-    "more": "Social network visualisations of the connections between an individual seeking asylum at the US-Mexico land border and the actors involved in implementing the norm of non-refoulement with whom they might come into direct or indirect contact. These networks use empirical data to map a representative sample of six different ego-centric networks, derived from fifteen different possible legal categorisations of people seeking asylum at the US-Mexico land border in 2019. Egos appear as yellow, circular nodes. Alters appear as blue, circular nodes. Indirect ties between egos and alters are represented by pink lines. Direct ties between egos and alters are represented as teal lines.",
-    "intro": "Social network visualisations of the connections between an individual seeking asylum at the US-Mexico land border and the actors involved in implementing the norm of non-refoulement with whom they might come into direct or indirect contact, as of 2019.",
+    "more": "Social network visualisations of the connections between an asylum seeker at the US-Mexico land border and the actors implementing the norm of non-refoulement with whom they might come into direct or indirect contact. These networks use empirical data to map a representative sample of six different ego-centric networks, derived from fifteen different possible legal categorisations of people seeking asylum at the US-Mexico land border in 2019. Asylum seekers (egos) appear as yellow, circular nodes. Actors (alters) appear as blue, circular nodes. Indirect ties between asylum seekers and actors are represented by pink lines. Direct ties between asylum seekers and actors are represented as teal lines.",
+    "intro": "Social network visualisations of the connections between an asylum seeker at the US-Mexico land border and the actors implementing the norm of non-refoulement with whom they might come into direct or indirect contact, as of 2019.",
     "title": "Social Network of Actors Implementing the Norm of Non-Refoulement in the United States"
   },
   "legend": {
